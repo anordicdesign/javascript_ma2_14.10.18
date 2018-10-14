@@ -1,0 +1,29 @@
+//MODULE ASSIGNMENT 2 - LEVEL 1
+
+1. What is a function literal?
+Used as expression, and one doesn't need f name. It defines a unnamed function. 
+
+2. What is the constructor?
+Is used for working with Prototype objects or objects oriented js. 
+It does not have a value. 
+
+3. What does the return statement do?
+It fetches parts of the code we want to be displayed or worked with. 
+It returns values of functions.
+
+4. What will be written to the console from this function:
+
+		function myFunction(){
+			  return console.log('inside my function');
+			  console.log('My name is Andy');
+		}
+		myFunction();
+
+'inside my function' will be displayed. 
+
+
+5. Briefly describe scope in JavaScript.
+
+Local scopes are not accessible from outside the functions or the variables?
+And global scopes are? I felt unsure of scope. It felt very "within this code, 
+is within this code"
